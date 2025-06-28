@@ -1,5 +1,5 @@
 while True:
-    _input = input("Input: ")
     _output = input("Output: ")
-    print(_input, "->", _output)
+    _input = input("Input: ")
+    print(_output, "->", _input)
     print()
